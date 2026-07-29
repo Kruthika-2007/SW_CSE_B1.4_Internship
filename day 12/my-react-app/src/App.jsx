@@ -1,11 +1,11 @@
-import { HelloWorld } from "./components/HelloWorld";
+import HelloWorld from "./components/HelloWorld";
 
 function App() {
   return (
     <div>
-      <helloworld />
+      <HelloWorld />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
